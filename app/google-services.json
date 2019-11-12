@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "8929017072",
+    "firebase_url": "https://bircodex.firebaseio.com",
+    "project_id": "bircodex",
+    "storage_bucket": "bircodex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8929017072:android:73bc6e247c3eb5f8959635",
+        "android_client_info": {
+          "package_name": "com.etherials.bircodex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8929017072-2gep957jvq8gp0s910n3l7vh4u3mm6sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCswWmz7feoAfyA9-mKQrlcuZuvAJ_usJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8929017072-2gep957jvq8gp0s910n3l7vh4u3mm6sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
